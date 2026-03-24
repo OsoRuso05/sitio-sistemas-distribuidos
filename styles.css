@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #a11818;
+    background-color: #604df0;
     color: #333;
     display: flex;
     flex-direction: column;
@@ -91,19 +91,19 @@ input, textarea, button {
 }
 
 button {
-    background-color: #2c3e50;
+    background-color: #0f66bd;
     color: white;
     cursor: pointer;
     margin-top: 15px;
 }
 
 button:hover {
-    background-color: #1a252f;
+    background-color: #0f66bd;
 }
 
 /* Pie de página */
 footer {
-    background-color: #2c3e50;
+    background-color: #0f66bd;
     color: white;
     text-align: center;
     padding: 10px;
